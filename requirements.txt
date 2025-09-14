@@ -1,0 +1,11 @@
+streamlit
+mysql-connector-python
+pandas
+matplotlib
+seaborn
+ipython
+wordcloud
+emoji
+nltk
+textblob
+transformers
